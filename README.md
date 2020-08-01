@@ -41,6 +41,9 @@ https://www.hackerone.com/hacktivitycon#
 
 
 ## Training
+* **root-me** Exercices and challenges about networking, forensic, web, crpyto and so on https://www.root-me.org/  
+
+* **offensive-security** Ceritification to become a pentester https://www.offensive-security.com/  
 
 * **Certified Network Security Specialist** Certification and training; Expires Aug 31 2020 Use coupon code #StaySafeHome during checkout to claim your free access. Offer is valid till 31/08/2020.  £500.00 Value https://www.icsi.co.uk/courses/icsi-cnss-certified-network-security-specialist-covid-19
 
@@ -251,10 +254,11 @@ _Below podcasts Added from here: https://infosec-conferences.com/cybersecurity-p
 
 ## Cybersecurity YouTube Channels
 _This list was originally forked/curated from here: https://wportal.xyz/collection/cybersec-yt1 on (7/29/2020) Attribution and appreciation to d4rckh_ 
+*   	**Computerphile** Explanation for computer sciences in general. but you can find interessting technics as the buffer overflow or the SQL injections https://www.youtube.com/user/Computerphile 
 
-*   **SimplyCyber** Weekly vids, Simply Cyber brings Information security related content to help IT or Information Security professionals take their career further, faster. Current cyber security industry topics and techniques are explored to promote a career in the field. Topics cover offense, defense, governance, risk, compliance, privacy, education, certification, conferences; all with the intent of professional development. https://www.youtube.com/c/GeraldAuger
+*   	**SimplyCyber** Weekly vids, Simply Cyber brings Information security related content to help IT or Information Security professionals take their career further, faster. Current cyber security industry topics and techniques are explored to promote a career in the field. Topics cover offense, defense, governance, risk, compliance, privacy, education, certification, conferences; all with the intent of professional development. https://www.youtube.com/c/GeraldAuger
 	
-*	**IPPSec** https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA
+*	**IPPSec** Walktrough hackthebox.eu greate to see examples of a hacked machine form the beginning to the end. And in a single video he will explain why you have to try this technics and how it works https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA
 	
 *	**Tradecraft Security Weekly** - Want to learn about all of the latest security tools and techniques?
 	https://wiki.securityweekly.com/Tradecraft_Security_Weekly
